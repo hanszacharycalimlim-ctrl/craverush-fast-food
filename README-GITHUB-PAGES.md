@@ -8,7 +8,7 @@ The repository deploys automatically through `.github/workflows/deploy-pages.yml
 
 Expected site URL:
 
-`https://hanszacharycalimlim-ctrl.github.io/craverush/`
+`https://hanszacharycalimlim-ctrl.github.io/craverush-fast-food/`
 
 In repository settings, open **Pages** and set **Build and deployment → Source** to **GitHub Actions** if GitHub has not selected it automatically.
 
